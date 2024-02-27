@@ -1,0 +1,137 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #fff;
+  margin: 0;
+  overflow-y: hidden;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  top: 1em;
+  left: 2em;
+  right: 2em;
+  background-color: #757873;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-right: 1.5em;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.navbar .navbar-nama {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #fff;
+  text-decoration: none;
+  font-style: italic;
+}
+
+.navbar .navbar-nama span {
+  color: #a8865e;
+}
+
+.navbar .navbar-nav a:hover {
+  color: #a8865e;
+  transition: 0.3s;
+}
+
+.navbar .navbar-nav a:active {
+  color: #010101;
+}
+
+/* isi */
+.image {
+  width: 10em;
+  border: 5px solid white;
+  border-radius: 0.2em;
+}
+
+.container {
+  padding-top: 3em;
+  background-image: white;
+  background-size: default;
+  margin: 3em;
+  border-radius: 0.5em;
+  padding-bottom: 4em;
+  box-shadow: 0 10px 20px rgba(117, 120, 115);
+  display: flex;
+}
+
+.row {
+  margin-left: 2em;
+  margin-right: 5em;
+  width: 100%;
+  border: 1px solid black;
+}
+
+.peta {
+  padding-top: 2em;
+  padding-right: 2em;
+  padding-bottom: 2em;
+  padding-left: 3em;
+  height: 20em;
+  width: 50%;
+}
+
+.container .tab {
+  width: 40%;
+}
+
+.col h2 {
+  padding-left: 2em;
+  color: #757873;
+  font-family: "robtic", sans-serif;
+}
+
+.col2 {
+  padding-bottom: 1em;
+  padding-left: 2em;
+}
+
+.container .formm {
+  padding-left: 3em;
+}
+
+.formm .user-details {
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 20px 0 12px 0;
+}
+
+.formm .input-inbox {
+  margin-bottom: 15px;
+  width: calc(100% / 2-20px);
+}
+
+.formm .input-inbox input {
+  height: 45px;
+  width: 100%;
+  outline: none;
+  font-size: 16px;
+  border-radius: 3px;
+  padding-left: 15px;
+  border: 1px solid #ccc;
+  border-bottom-width: 2px;
+  transition: all 0.3s ease;
+}
+
+.formm .button input {
+  height: 45px;
+  width: 100%;
+  border-radius: 2px;
+  border: none;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  background-color: #a8865e;
+}

@@ -1,0 +1,88 @@
+body {
+  font-family: 'poppins', sans-serif;
+  background-color: #fff;
+  margin: 0;
+  overflow-y: hidden;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  top: 1em;
+  left: 2em;
+  right: 2em;
+  background-color: #757873;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-right: 1.5em;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.navbar .navbar-nama {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #fff;
+  text-decoration: none;
+  font-style: italic;
+}
+
+.navbar .navbar-nama span {
+  color:  #a8865e;
+}
+
+.navbar .navbar-nav a:hover {
+  color: #a8865e;
+  transition: 0.3s;
+}
+
+.navbar .navbar-nav a:active {
+  color: #010101;
+}
+
+/* isi */
+.image {
+  width: 10em;
+  border: 5px solid white;
+  border-radius: 0.2em;
+}
+
+.container {
+  padding-top: 2em;
+  background-image: url("image/bg.jpg");
+  background-size: default;
+  margin: 3em;
+  border-radius: 0.5em;
+  padding-bottom: 2em;
+  box-shadow: 0 10px 20px rgba(117, 120, 115);
+
+}
+
+   
+.container h4 {
+  margin-top: 0.5;
+  margin-bottom: 0.2em;
+  color: #fff;
+  font-size: 2em;
+}
+
+.container p {
+  margin-top: none;
+  color: white;
+}
+.container .tombol {
+  background-color: #a8865e;
+  color: #ffff;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
