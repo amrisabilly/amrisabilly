@@ -1,8 +1,8 @@
-![log0](https://github.com/amrisabilly/amrisabilly/blob/main/Black%20Yellow%20Modern%20Programmer%20LinkedIn%20Banner.png)
+![image](https://github.com/user-attachments/assets/4ea6e2bc-6965-473d-b092-94104b7e34b8)![log0](https://github.com/amrisabilly/amrisabilly/blob/main/Black%20Yellow%20Modern%20Programmer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Amri Sabilly</h1>
 <h3 align="center">A passionate Web and Mobile Developer from Indonesia</h3>
 
-<img align="right" aly="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrisabilly&label=Profile%20views&color=0e75b6&style=flat" alt="amrisabilly" /> </p>
 
